@@ -9,48 +9,32 @@
 - **Roll Number:** 22052918  
 - **University:** Kalinga Institute of Industrial Technology (KIIT)  
 - **Program:** Cognizant Digital Nurture 4.0 – DotNet Full Stack Engineer (FSE)  
-- **Purpose:** Weekly progress submission of mandatory hands-on exercises
+- **Purpose:** Submission of weekly mandatory hands-on exercises
 
 ---
 
 ## 📁 Repository Overview
 
-This repository contains my weekly hands-on exercise submissions as part of the Cognizant Digital Nurture 4.0 Deep Skilling program. Each week includes mandatory tasks and optional practice problems focused on strengthening core engineering and .NET development skills.
+This repository contains weekly hands-on exercise solutions as part of the **DotNet FSE Deep Skilling Program**. All exercises are structured week-wise and align with the curriculum's mandatory tasks as outlined in:
+
+> `DN 4.0 - DotNet FSE Mandatory hands-on detail.xlsx`
 
 ---
 
-## 🚀 Weekly Workflow
+## 🧠 Skills Demonstrated
 
-1. Download exercise ZIP from the shared public GitHub repo.
-2. Refer to the `DN 4.0 - DotNet FSE Mandatory hands-on detail.xlsx` file to identify required tasks.
-3. Solve the exercises using proper coding practices and OOP concepts.
-4. Organize your work into week-wise folders (Week1, Week2, etc.).
-5. Upload the completed work here and push updates regularly.
-
----
-
-## 🧠 Skills Covered
-
-- Object-Oriented Programming (OOP)
-- Design Patterns and Principles
-- Data Structures and Algorithms
-- .NET Frameworks and Tools
-- Engineering Best Practices
+- Object-Oriented Programming (OOP)  
+- Design Patterns & Engineering Principles  
+- Data Structures and Algorithms  
+- .NET Development Tools & Practices
 
 ---
 
-## 📌 Notes
+## 📌 Note
 
-- This repository may be reviewed by mentors or evaluators.
-- Only original, self-written code is submitted.
-- All exercises align with the weekly curriculum objectives.
-
----
-
-## 📬 Contact
-
-For any queries related to the content or structure, feel free to connect via the official communication channels provided during the training program.
+- All code is original and written as part of the Digital Nurture 4.0 program.
+- Organized week-wise for easy evaluation by mentors/POCs.
 
 ---
 
-> 📈 *Keep Learning. Keep Building. Keep Growing.*
+> ✅ *This repository is regularly updated as weekly exercises are completed.*
